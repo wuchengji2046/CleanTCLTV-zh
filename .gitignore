@@ -1,0 +1,16 @@
+**/.gradle/
+**/build/
+**/local.properties
+.cache/
+.venv/
+**/__pycache__/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.pem
+adbkey*
+.env*
+*.log
+.idea/
+.DS_Store

@@ -1,0 +1,7 @@
+<resources>
+
+<string name="tcl_redirect_name">TCL 简洁主页跳转</string>
+
+<string name="tcl_redirect_description">原厂主页出现时打开简洁主页。关闭此服务即可恢复原厂主页；不读取屏幕内容，不修改其他应用。</string>
+
+</resources>
